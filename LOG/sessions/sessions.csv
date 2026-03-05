@@ -1,0 +1,2 @@
+session_id,started_at,ended_at,total_events,dominant_intent,complexity_score,intents_breakdown,extensions_used,actions_breakdown
+21ae75af,2026-03-05T01:31:34.952875+00:00,2026-03-05T01:33:20.596400+00:00,17,writing,10.2,"{'writing': 9, 'unknown': 8}","{'.txt': 9, '.bmp': 8}","{'FILE_CREATED': 1, 'FILE_DELETED': 6, 'FILE_COPIED': 9, 'FILE_MODIFIED': 1}"

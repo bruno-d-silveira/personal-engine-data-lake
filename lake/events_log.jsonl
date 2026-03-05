@@ -1,0 +1,2 @@
+{"timestamp": "2026-03-05T00:46:41.099933+00:00", "event_type": "FILE_CREATED", "arquivo": "Novo Documento de Texto (2).txt", "pasta": "C:\\Users\\Bruno\\Desktop", "extensao": ".txt", "hash": "d41d8cd98f00b204e9800998ecf8427e", "tamanho": 0, "hour": 0, "weekday": 3}
+{"timestamp": "2026-03-05T00:47:12.648650+00:00", "event_type": "FILE_DELETED", "arquivo": "Nova Imagem de Bitmap (2).bmp", "pasta": "C:\\Users\\Bruno\\Desktop", "extensao": ".bmp", "hash": "", "tamanho": 0, "hour": 0, "weekday": 3}

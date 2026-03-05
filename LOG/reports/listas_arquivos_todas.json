@@ -1,0 +1,42 @@
+{
+  "criado": {
+    "quantidade": 1,
+    "nomes": [
+      "Novo Documento de Texto (2).txt"
+    ]
+  },
+  "modificado/aberto": {
+    "quantidade": 1,
+    "nomes": [
+      "text999.txt"
+    ]
+  },
+  "deletado": {
+    "quantidade": 7,
+    "nomes": [
+      "Nova Imagem de Bitmap (2).bmp",
+      "salve.bmp",
+      "fotospraia.bmp",
+      "Novo Documento de Texto (2).txt",
+      "verao2027.txt",
+      "text999.txt",
+      "trabalho.txt"
+    ]
+  },
+  "copiado": {
+    "quantidade": 11,
+    "nomes": [
+      "Nova Imagem de Bitmap (2).bmp",
+      "salve.bmp",
+      "salve - Copia (2).bmp",
+      "salve - Copia.bmp",
+      "salve - Copia (3).bmp",
+      "salve - Copia (4).bmp",
+      "fotospraia.bmp",
+      "verao2027.txt",
+      "Novo Documento de Texto (2).txt",
+      "text999.txt",
+      "trabalho.txt"
+    ]
+  }
+}

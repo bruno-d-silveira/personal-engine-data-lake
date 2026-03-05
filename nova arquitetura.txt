@@ -1,0 +1,16 @@
+Watcher
+  ¦
+  ?
+EventBus  ----------------------------------------------------------+
+  ¦                                                                  ¦
+  ?                                                                  ?
+WorkerPool                                                    SessionTracker
+  ¦                                                                  ¦
+  ?                                                                  ¦
+Enricher  ?-- contexto humano (hora, cadência, tipo, intenção)      ¦
+  ¦                                                                  ¦
+  ?                                                                  ¦
+DataLake  ?-- particionado por data/hora/tipo + sessão ?------------+
+  ¦
+  ?
+PatternEngine  ?-- identifica padrões reais de comportamento

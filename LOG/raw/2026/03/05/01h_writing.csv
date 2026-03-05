@@ -1,0 +1,14 @@
+timestamp,event_type,arquivo,extensao,tamanho_bytes,hash_prefixo,intent,periodo_do_dia,hora,dia_semana,dia_semana_num,action_weight,cadencia_segundos,dado_sensivel,session_id,pasta,caminho
+2026-03-05T01:31:44.034623+00:00,FILE_CREATED,Novo Documento de Texto (2).txt,.txt,0,d41d8cd98f00,writing,madrugada,1,thursday,3,1.0,0.0,False,21ae75af,C:\Users\Bruno\Desktop,C:\Users\Bruno\Desktop\Novo Documento de Texto (2).txt
+2026-03-05T01:31:52.298636+00:00,FILE_DELETED,Novo Documento de Texto (2).txt,.txt,0,,writing,madrugada,1,thursday,3,0.5,0.0,False,21ae75af,C:\Users\Bruno\Desktop,C:\Users\Bruno\Desktop\Novo Documento de Texto (2).txt
+2026-03-05T01:31:52.298290+00:00,FILE_COPIED,verao2027.txt,.txt,0,d41d8cd98f00,writing,madrugada,1,thursday,3,1.0,8.26,False,21ae75af,C:\Users\Bruno\Desktop,C:\Users\Bruno\Desktop\verao2027.txt
+2026-03-05T01:32:09.625776+00:00,FILE_DELETED,verao2027.txt,.txt,0,,writing,madrugada,1,thursday,3,0.5,17.33,False,21ae75af,C:\Users\Bruno\Desktop,C:\Users\Bruno\Desktop\verao2027.txt
+2026-03-05T01:32:45.039623+00:00,FILE_COPIED,Novo Documento de Texto (2).txt,.txt,0,d41d8cd98f00,writing,madrugada,1,thursday,3,1.0,7.37,False,21ae75af,C:\Users\Bruno\Desktop,C:\Users\Bruno\Desktop\Novo Documento de Texto (2).txt
+2026-03-05T01:32:50.771023+00:00,FILE_DELETED,Novo Documento de Texto (2).txt,.txt,0,,writing,madrugada,1,thursday,3,0.5,0.0,False,21ae75af,C:\Users\Bruno\Desktop,C:\Users\Bruno\Desktop\Novo Documento de Texto (2).txt
+2026-03-05T01:32:50.770850+00:00,FILE_COPIED,text999.txt,.txt,0,d41d8cd98f00,writing,madrugada,1,thursday,3,1.0,5.73,False,21ae75af,C:\Users\Bruno\Desktop,C:\Users\Bruno\Desktop\text999.txt
+2026-03-05T01:32:59.000388+00:00,FILE_MODIFIED,text999.txt,.txt,11,4854c24f223f,writing,madrugada,1,thursday,3,0.8,8.23,False,21ae75af,C:\Users\Bruno\Desktop,C:\Users\Bruno\Desktop\text999.txt
+2026-03-05T01:33:04.783108+00:00,FILE_DELETED,text999.txt,.txt,0,,writing,madrugada,1,thursday,3,0.5,5.78,False,21ae75af,C:\Users\Bruno\Desktop,C:\Users\Bruno\Desktop\text999.txt
+2026-03-05T01:44:12.428245+00:00,FILE_COPIED,Novo Documento de Texto (2).txt,.txt,0,d41d8cd98f00,writing,madrugada,1,thursday,3,1.0,0.0,False,46cd22c4,C:\Users\Bruno\Desktop,C:\Users\Bruno\Desktop\Novo Documento de Texto (2).txt
+2026-03-05T01:44:17.364977+00:00,FILE_DELETED,Novo Documento de Texto (2).txt,.txt,0,,writing,madrugada,1,thursday,3,0.5,0.0,False,46cd22c4,C:\Users\Bruno\Desktop,C:\Users\Bruno\Desktop\Novo Documento de Texto (2).txt
+2026-03-05T01:44:17.364660+00:00,FILE_COPIED,trabalho.txt,.txt,0,d41d8cd98f00,writing,madrugada,1,thursday,3,1.0,4.94,False,46cd22c4,C:\Users\Bruno\Desktop,C:\Users\Bruno\Desktop\trabalho.txt
+2026-03-05T01:44:38.798583+00:00,FILE_DELETED,trabalho.txt,.txt,0,,writing,madrugada,1,thursday,3,0.5,10.71,False,46cd22c4,C:\Users\Bruno\Desktop,C:\Users\Bruno\Desktop\trabalho.txt

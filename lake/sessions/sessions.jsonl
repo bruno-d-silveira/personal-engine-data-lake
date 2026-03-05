@@ -1,0 +1,1 @@
+{"session_id": "fb577637", "started_at": "2026-03-05T01:19:17.905953+00:00", "ended_at": "2026-03-05T01:23:10.764392+00:00", "total_events": 7, "dominant_intent": "writing", "complexity_score": 3.8, "intents_breakdown": {"writing": 6, "unknown": 1}, "extensions_used": {".txt": 6, "(sem extensão)": 1}, "actions_breakdown": {"FILE_DELETED": 4, "FILE_COPIED": 3}}

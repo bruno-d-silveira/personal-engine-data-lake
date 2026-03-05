@@ -1,0 +1,13 @@
+timestamp,event_type,arquivo,extensao,tamanho_bytes,hash_prefixo,intent,periodo_do_dia,hora,dia_semana,dia_semana_num,action_weight,cadencia_segundos,dado_sensivel,session_id,pasta,caminho
+2026-03-05T01:32:17.891886+00:00,FILE_COPIED,Nova Imagem de Bitmap (2).bmp,.bmp,0,d41d8cd98f00,unknown,madrugada,1,thursday,3,1.0,8.27,False,21ae75af,C:\Users\Bruno\Desktop,C:\Users\Bruno\Desktop\Nova Imagem de Bitmap (2).bmp
+2026-03-05T01:32:26.954924+00:00,FILE_DELETED,Nova Imagem de Bitmap (2).bmp,.bmp,0,,unknown,madrugada,1,thursday,3,0.5,0.0,False,21ae75af,C:\Users\Bruno\Desktop,C:\Users\Bruno\Desktop\Nova Imagem de Bitmap (2).bmp
+2026-03-05T01:32:26.954415+00:00,FILE_COPIED,salve.bmp,.bmp,0,d41d8cd98f00,unknown,madrugada,1,thursday,3,1.0,9.06,False,21ae75af,C:\Users\Bruno\Desktop,C:\Users\Bruno\Desktop\salve.bmp
+2026-03-05T01:32:33.550135+00:00,FILE_COPIED,salve - Copia (2).bmp,.bmp,0,d41d8cd98f00,unknown,madrugada,1,thursday,3,1.0,6.6,False,21ae75af,C:\Users\Bruno\Desktop,C:\Users\Bruno\Desktop\salve - Copia (2).bmp
+2026-03-05T01:32:33.550646+00:00,FILE_COPIED,salve - Copia.bmp,.bmp,0,d41d8cd98f00,unknown,madrugada,1,thursday,3,1.0,0.0,False,21ae75af,C:\Users\Bruno\Desktop,C:\Users\Bruno\Desktop\salve - Copia.bmp
+2026-03-05T01:32:36.850174+00:00,FILE_COPIED,salve - Copia (3).bmp,.bmp,0,d41d8cd98f00,unknown,madrugada,1,thursday,3,1.0,3.3,False,21ae75af,C:\Users\Bruno\Desktop,C:\Users\Bruno\Desktop\salve - Copia (3).bmp
+2026-03-05T01:32:37.673821+00:00,FILE_COPIED,salve - Copia (4).bmp,.bmp,0,d41d8cd98f00,unknown,madrugada,1,thursday,3,1.0,0.82,False,21ae75af,C:\Users\Bruno\Desktop,C:\Users\Bruno\Desktop\salve - Copia (4).bmp
+2026-03-05T01:33:07.240711+00:00,FILE_DELETED,salve.bmp,.bmp,0,,unknown,madrugada,1,thursday,3,0.5,2.46,False,21ae75af,C:\Users\Bruno\Desktop,C:\Users\Bruno\Desktop\salve.bmp
+2026-03-05T01:44:25.612114+00:00,FILE_COPIED,Nova Imagem de Bitmap (2).bmp,.bmp,0,d41d8cd98f00,unknown,madrugada,1,thursday,3,1.0,8.25,False,46cd22c4,C:\Users\Bruno\Desktop,C:\Users\Bruno\Desktop\Nova Imagem de Bitmap (2).bmp
+2026-03-05T01:44:28.085732+00:00,FILE_DELETED,Nova Imagem de Bitmap (2).bmp,.bmp,0,,unknown,madrugada,1,thursday,3,0.5,0.0,False,46cd22c4,C:\Users\Bruno\Desktop,C:\Users\Bruno\Desktop\Nova Imagem de Bitmap (2).bmp
+2026-03-05T01:44:28.085048+00:00,FILE_COPIED,fotospraia.bmp,.bmp,0,d41d8cd98f00,unknown,madrugada,1,thursday,3,1.0,2.47,False,46cd22c4,C:\Users\Bruno\Desktop,C:\Users\Bruno\Desktop\fotospraia.bmp
+2026-03-05T01:44:42.899918+00:00,FILE_DELETED,fotospraia.bmp,.bmp,0,,unknown,madrugada,1,thursday,3,0.5,4.1,False,46cd22c4,C:\Users\Bruno\Desktop,C:\Users\Bruno\Desktop\fotospraia.bmp

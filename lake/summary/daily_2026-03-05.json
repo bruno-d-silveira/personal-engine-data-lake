@@ -1,0 +1,21 @@
+{
+  "data": "2026-03-05",
+  "total_eventos": 7,
+  "complexidade_total": 5.0,
+  "intents": {
+    "writing": 6,
+    "unknown": 1
+  },
+  "acoes": {
+    "FILE_DELETED": 4,
+    "FILE_COPIED": 3
+  },
+  "extensoes": {
+    ".txt": 6,
+    "(sem extensão)": 1
+  },
+  "horas_ativas": {
+    "1": 7
+  },
+  "dados_sensiveis": 0
+}
